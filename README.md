@@ -12,17 +12,10 @@ Introduce = [
   (●'◡'●),  
   "Hi! My name's Quan",   
   "Now i'm studying in ICTU",  
-  "I'm learning about Flutter."  
+  "I'm learning about Flutter, Android Mobile, DevOps."  
 ]
 ```
-
-
 ###
-
-<h1 align="left">🌐 Connect with me:</h1>
-<div align="center">
-<a href="https://www.facebook.com/gynhuyn" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.7f689981b7050a848293ef0344f30d33?rik=Ooi2n6Vh4wBGOQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-E9cQt2nvyTc%2fURusPT5VqnI%2fAAAAAAAAABw%2fwU8Q0YrG37M%2fs1600%2ffacebook%2blogo%2b3.png&ehk=%2bfW27pizyZApmGoIvKOHuCku5JHSDG52uNTA6WpkGbM%3d&risl=&pid=ImgRaw&r=0" alt="ttD4T" height="100" width="100" /></a>
-</div>
 <br>
 <footer align="center">
   <img align="center" alt="colored-waving" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" style="width: 100%;" />
